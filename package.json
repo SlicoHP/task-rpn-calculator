@@ -1,0 +1,8 @@
+{
+  "author": "Rodrigo Jimenez",
+  "name": "task-rpn-calculator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "A code exercise for interview in Evolve Squads"
+}
